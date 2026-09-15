@@ -2,18 +2,18 @@
 <!-- NOTE: remove the bracketted examples/placeholders as you fill things in, only keep brackets if they're a checkbox -->
 ## Studio Name Ideas
 - **Primary Ideas:**
-  - [Insert name idea 1]
-  - [Insert name idea 2]
-  - [Insert name idea 3]
+  - Kulig Studios
+  - Plushy Productions
+  - Melatone Games
 - **Alternative Ideas:**
-  - [Insert alternative name idea 1]
-  - [Insert alternative name idea 2]
-  - [Insert alternative name idea 3]
+  - Kuba Studios
+  - Drowzy Productions
+  - NotInsomniac
 
-- **Chosen Name**:
-- **About the name**:
-- **Social Medias with name available**:
-- **Possible domain names available**:
+- **Chosen Name**: Plushy Productions
+- **About the name**: Its my username that I centered some branding around. 
+- **Social Medias with name available**: 
+- **Possible domain names available**: drowzyplushy.com
 
 ---
 
@@ -27,19 +27,19 @@
 ## Core Values
 *What principles guide your studio's approach to game design, architecture, and development?*
 
-- [Value 1: e.g., Thoughtful Design]
-- [Value 2: e.g., Player-Centered Innovation]
-- [Value 3: e.g., Simplicity in Architecture]
-- [Value 4: e.g., Experimentation with Mechanics]
+- Grand Scenery 
+- Exploring utilizing weird physics stuff (gear, abilities, etc.)
+- Co-operative journeys 
+- Somewhat unique mechanics
 
 ---
 
 ## Target Audience
 *Who are your games designed for? Identify your primary audience based on your focus on card and board games.*
 
-- **Demographic:** [e.g., Casual Players, Board Game Enthusiasts, Indie Game Fans]
-- **Interests:** [e.g., Strategic Gameplay, Narrative-Driven Experiences, Multiplayer Fun]
-- **Platforms:** [e.g., PC, Web, Mobile]
+- **Demographic:** Indie Game Fans
+- **Interests:** Multiplayer Fun
+- **Platforms:** PC
 
 ---
 
@@ -47,37 +47,37 @@
 *What types of games will your studio focus on?*  
 *Consider your course's emphasis on depth, mechanics, and balance in card and board games.*
 
-- [e.g., Strategy Games, Puzzle Games, Cooperative Board Games]
-- [e.g., Themes: Fantasy, Sci-Fi, Minimalist, etc.]
+- Puzzle, Strategy, Open World
+- Fantasy, Minimalist 
 
 ---
 
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
-> [Describe your USP, such as unique mechanics, storytelling integration, or player interaction.]
+> Game environment that leads to unique player interaction. 
 
 ---
 
 ## Tools and Technology
 *What tools and platforms will you use to develop, test, and publish your games?*
 
-- **Game Engine(s):** [e.g., Unity, Godot, Phaser for digital prototyping.]
-- **Art Tools:** [e.g., Inkscape, Aseprite for board/card assets.]
-- **Audio Tools:** [e.g., Audacity, Bfxr for sound effects.]
-- **Version Control:** [e.g., GitHub for tracking development.]
-- **Publishing Platforms:** [e.g., Itch.io, GitHub Pages for hosting digital prototypes.]
+- **Game Engine(s):** Unity
+- **Art Tools:** Adobe Products
+- **Audio Tools:** Garage Band
+- **Version Control:** Github
+- **Publishing Platforms:** Github
 
 ---
 
 ## Branding and Aesthetics
 *What will your studio's visual identity look like?*
 
-- **Logo Style:** [e.g., Minimalist, Geometric, Playful.]
+- **Logo Style:** Minimalist, Playful
 - **Tagline Ideas:** 
-  - [Tagline 1: e.g., "Simple Games, Complex Stories."]
-  - [Tagline 2: e.g., "Where Mechanics Meet Meaning."]
-  - [Tagline 3: e.g., "Architects of Fun."]
+  - Small Moments, Grand Adventures
+  - Silly Things Serious Consequences
+  - Yup, No.
 
 -- **Sketches/Logo**:
 
