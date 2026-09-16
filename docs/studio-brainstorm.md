@@ -80,7 +80,7 @@
   - [Tagline 3: e.g., "Architects of Fun."]
 
 -- **Sketches/Logo**:
-![alt text](PlushyProductions.jpg)
+
 ---
 
 ## Additional Notes
