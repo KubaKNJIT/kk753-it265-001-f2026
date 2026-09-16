@@ -14,25 +14,29 @@
 - [ ] Example pending goal
 - [x] Example completed goal
 
+- [x] Make Repo
+- [x] Make docs folder
+- [x] Have Pages work
+
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  > Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  > After some revising and troubleshooting (by making my repo public temporarily) I could do all the things I needed to do in the checklist above. 
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  >  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  >  I got denied the concept of being a student at NJIT by Github, so I have to go for a retrial with more stuff to prove I'm a student. 
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  > Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  > I direct messaged my professor for guidance and it worked wonders. 10/10
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
-> Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+> Git pull is really useful when a lot of stuff was done in github itself. Learning what it did cleared a lot of confusion. 
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+>  I need to clean up my git repo from files that shouldn't exist. Ensure all my paths are not messed up and then keep it most crucial commands and passwords in my class notes. 
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+>  N/A
