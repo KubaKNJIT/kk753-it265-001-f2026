@@ -2,44 +2,44 @@
 <!-- NOTE: remove the bracketted examples/placeholders as you fill things in, only keep brackets if they're a checkbox -->
 ## Studio Name Ideas
 - **Primary Ideas:**
-  - [Insert name idea 1]
-  - [Insert name idea 2]
-  - [Insert name idea 3]
+  - Kulig Studios
+  - Plushy Productions
+  - Melatone Productions
 - **Alternative Ideas:**
-  - [Insert alternative name idea 1]
-  - [Insert alternative name idea 2]
-  - [Insert alternative name idea 3]
+  - Kuba Studios
+  - Drowzy Productions
+  - DrowzyPlushy Productions
 
-- **Chosen Name**:
-- **About the name**:
-- **Social Medias with name available**:
-- **Possible domain names available**:
+- **Chosen Name**: Plushy Productions
+- **About the name**: Its my the part of my username I'm referred to usually and it's already mostly a brand I have going for some things I've tried to start like streaming. 
+- **Social Medias with name available**: Instagram, Youtube
+- **Possible domain names available**: drowzyplushy
 
 ---
 
 ## Vision Statement
 *What is the mission of your solo game studio? How does it align with creating and analyzing innovative game architectures?*
 
-> [Write a concise and inspiring vision statement here.]
+> The goal is to take the player and their friends on a grand journey through stunning and difficult terrain, go on journies that feel worthwhile and magical. To create something that feels so large but not drastically overwhelming takes a lot of understanding how the flow and stability of game mechanics impacts the feel of actually playing the game itself. 
 
 ---
 
 ## Core Values
 *What principles guide your studio's approach to game design, architecture, and development?*
 
-- [Value 1: e.g., Thoughtful Design]
-- [Value 2: e.g., Player-Centered Innovation]
-- [Value 3: e.g., Simplicity in Architecture]
-- [Value 4: e.g., Experimentation with Mechanics]
+- Large scale of environments
+- Co-op Centered Development
+- Variety in items, solutions to puzzles, approachs, etc. 
+- Generating a feeling of a job well done
 
 ---
 
 ## Target Audience
 *Who are your games designed for? Identify your primary audience based on your focus on card and board games.*
 
-- **Demographic:** [e.g., Casual Players, Board Game Enthusiasts, Indie Game Fans]
-- **Interests:** [e.g., Strategic Gameplay, Narrative-Driven Experiences, Multiplayer Fun]
-- **Platforms:** [e.g., PC, Web, Mobile]
+- **Demographic:** Casual Players
+- **Interests:** Multiplayer Fun, Strategy, Exploration
+- **Platforms:** PC, Console
 
 ---
 
@@ -47,40 +47,40 @@
 *What types of games will your studio focus on?*  
 *Consider your course's emphasis on depth, mechanics, and balance in card and board games.*
 
-- [e.g., Strategy Games, Puzzle Games, Cooperative Board Games]
-- [e.g., Themes: Fantasy, Sci-Fi, Minimalist, etc.]
+- Puzzle, Strategy, Open World
+- Fantasy
 
 ---
 
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
-> [Describe your USP, such as unique mechanics, storytelling integration, or player interaction.]
+> Player interaction should allow the player to have a rather unique experience in comparison to another player who approaches a similar challenge, unless their idea of a solution is near identical. 
 
 ---
 
 ## Tools and Technology
 *What tools and platforms will you use to develop, test, and publish your games?*
 
-- **Game Engine(s):** [e.g., Unity, Godot, Phaser for digital prototyping.]
+- **Game Engine(s):** Unity
 - **Art Tools:** [e.g., Inkscape, Aseprite for board/card assets.]
 - **Audio Tools:** [e.g., Audacity, Bfxr for sound effects.]
-- **Version Control:** [e.g., GitHub for tracking development.]
-- **Publishing Platforms:** [e.g., Itch.io, GitHub Pages for hosting digital prototypes.]
+- **Version Control:** Github
+- **Publishing Platforms:** Github Pages
 
 ---
 
 ## Branding and Aesthetics
 *What will your studio's visual identity look like?*
 
-- **Logo Style:** [e.g., Minimalist, Geometric, Playful.]
+- **Logo Style:** Playful
 - **Tagline Ideas:** 
   - [Tagline 1: e.g., "Simple Games, Complex Stories."]
   - [Tagline 2: e.g., "Where Mechanics Meet Meaning."]
   - [Tagline 3: e.g., "Architects of Fun."]
 
 -- **Sketches/Logo**:
-
+![alt text](PlushyProductions.jpg)
 ---
 
 ## Additional Notes
