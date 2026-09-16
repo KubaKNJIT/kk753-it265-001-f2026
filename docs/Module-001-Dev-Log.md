@@ -3,13 +3,13 @@
 ### Module:
 
 <!-- Repeat the below as needed-->
-### Date: [MM/DD/YYYY]
+### Date: 09/15/2026
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in with an "x" to check them off
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
+- [x] Make Repo
+- [x] Make docs folder
+- [x] Have Pages work
 -->
 - [ ] Example pending goal
 - [x] Example completed goal
