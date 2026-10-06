@@ -55,9 +55,9 @@ Describe the nested activities in words or a simple diagram. The table is a star
 
 | Layer | Player activity or outcome | Tentative timing |
 | --- | --- | --- |
-| Immediate decision | Attack/Heal/Assist/Take/Leave | |
-| Larger objective | Preserve Health Pool/Grow Stronger| |
-| Session | Gain Items / Complete "Segments" | |
+| Immediate decision | Attack/Heal/Assist/Take/Leave | Being Able to Leave |
+| Larger objective | Preserve Health Pool/Grow Stronger| Having Materials to Heal|
+| Session | Gain Items / Complete "Segments" | Acquiring Items For Your Class|
 
 Keep the working model in the journal. The treatment needs only the timing context that helps a reader understand play.
 
