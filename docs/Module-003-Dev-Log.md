@@ -3,7 +3,7 @@
 ### Module:
 
 <!-- Repeat the below as needed-->
-### Date: [MM/DD/YYYY]
+### Date: [10/06/2026]
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in with an "x" to check them off
@@ -11,8 +11,10 @@
 - [ ] Goal 2
 - [ ] Goal 3
 -->
-- [ ] Example pending goal
-- [x] Example completed goal
+- [x] Have some physical components available
+- [ ] Color code the classes
+- [x] Think of a few starting items
+- [ ] Create small "stat blocks"
 
 #### Progress
 - **What I accomplished**:
@@ -27,7 +29,7 @@
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
-> Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+> When it comes to game balancing, I started to draw inspiration for some of them from other games I enjoyed. The balancing for those items and the logic behind them basically exist in actual patch notes so its decent context to figure out how I could do similar things. 
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
