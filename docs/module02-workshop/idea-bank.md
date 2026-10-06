@@ -11,12 +11,12 @@ List possible concepts before choosing one. Mark each as **ready to pitch**, **u
 
 | Working title | Repeated player decision or action | Category | Reason or open question |
 | --- | --- | --- | --- |
-| | | | |
-| | | | |
-| | | | |
+| Grace | Rolling Dice | ttrpg | |
+| Jar-again | | | |
+| Soma | Talking |  | |
 
 **Two or three concepts to pitch:**
 
-1.
-2.
-3.
+1. ttrpg
+2. card game
+3. yap-fest
