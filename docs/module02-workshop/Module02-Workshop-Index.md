@@ -5,9 +5,9 @@ title: "Module 2 Concept Workshop"
 
 # Module 2 Concept Workshop
 
-**Working game title:**
+**Working game title: Grace**
 
-**Workshop date:**
+**Workshop date: Oct6th 2026**
 
 ## Documents
 
