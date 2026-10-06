@@ -9,18 +9,18 @@ Compare the feedback for all your pitches before selecting one. Keep useful alte
 
 | Concept | Clear recurring decision? | Strongest appeal | Feasible first physical prototype? | Risk to test |
 | --- | --- | --- | --- | --- |
-| | | | | |
+| TTRPG/Roguelike | What Next? Who Chooses? | Roguelike | | None? |
 | | | | | |
 | | | | | |
 
 **Selected concept and reason:**
-
+Grace, it peaks my interest the most and it is also the easiest to receive feedback on with the people I'm able to reach out to. 
 **Feedback that changed or confirmed my choice, if received (otherwise say unavailable):**
-
+A comparison to Slay the Spire was drawn when it came to how events would be presented to the player, it further affirmed that the approach I want to take is aligned with the vision I have for the game. 
 **Other ideas to keep for later:**
 
 **First physical prototype boundary:**
-
+Limited to amount of materials I'm willing to keep with me and keep track of.
 **One feature to defer:**
 
 **One risk to test next:**
