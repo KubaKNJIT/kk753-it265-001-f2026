@@ -9,18 +9,18 @@ Copy this card for each of your two or three shortlisted concepts. Aim to explai
 
 ## Pitch Card
 
-**Working title:**
+**Working title: Grace**
 
-**Player role and situation:**
+**Player role and situation: Adventurer**
 
-**Repeated decision or action:**
+**Repeated decision or action: Rolling Dice, NPC/PC interaction, Card Pulling**
 
-**Goal, pressure, or ending:**
+**Goal, pressure, or ending: Don't get a "bad" ending**
 
-**Hook:**
+**Hook: Explore, Grow Your Abilities, Don't Die**
 
-**Smallest useful physical prototype:**
+**Smallest useful physical prototype: A Repurposed Chess Set, 3D Printed Figures, Cards**
 
-**Question I want listeners to answer:**
+**Question I want listeners to answer: Where Do You See Yourself in Approximately 5 Seconds**
 
 Keep the cards together in this document and link its rendered page from your workshop index. They support the journal and treatment rather than adding another graded submission.
