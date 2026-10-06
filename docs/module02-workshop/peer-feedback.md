@@ -7,19 +7,19 @@ title: "IT265 Module 2: Peer Feedback"
 
 Use one copy for each concept you review. Keep actual workshop notes together in this document, including feedback you received when available. Initials are enough; do not record classmates' contact details. If feedback was unavailable, briefly say so instead of inventing it. Give feedback on the idea and name a decision the designer can make next.
 
-**Concept:**
+**Concept: Grace, TTRPG/Roguelike**
 
-**Reviewer initials:**
+**Reviewer initials: A.W.**
 
 **In my words, the player repeatedly:**
 
-**One clarifying question:**
+**One clarifying question: "How will scenarios be chosen? How free willed are the players?"**
 
-**Strongest hook or source of appeal:**
+**Strongest hook or source of appeal: Class Scaling**
 
-**What one student could prototype first:**
+**What one student could prototype first: Game environment, Basic Classes**
 
-**Biggest uncertainty or risk to test:**
+**Biggest uncertainty or risk to test: How balanced an implemented item can be.**
 
 **One actionable suggestion:**
 
