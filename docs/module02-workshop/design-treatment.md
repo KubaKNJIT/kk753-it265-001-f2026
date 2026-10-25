@@ -174,12 +174,12 @@ record only feedback and outcomes that actually occurred. -->
 | Reviewer and relationship | Specific observation | Revision or next test |
 | Reviewer and relationship | Specific observation | Response and effect on the design |
 | --- | --- | --- |
-| [Person 1] | [Observation] | [Revision or next test] |
-| [Person 2] | [Observation] | [Revision or next test] |
-| [Person 3] | [Observation] | [Revision or next test] |
-| [Person 1] | [Observation] | [Change or next test, reason, and effect if observed] |
-| [Person 2] | [Observation] | [Change or next test, reason, and effect if observed] |
-| [Person 3] | [Observation] | [Change or next test, reason, and effect if observed] |
+| [A.W Friend] | [Similarity to SlayTheSpire] | [Character choice impact] |
+| [O.B Friend] | [Similarity to DND] | [Suggested use of certain printed figures as pcs] |
+| [Q Friend] | [Lack of Depth] | [Improve on what the characters are doing and why] |
+| [A.W Friend] | [Similarity to SlayTheSpire] | [Idea on using cards as a way of giving players "items"] |
+| [O.B Friend] | [Similarity to DND] | [N/A] |
+| [Q Friend] | [Discussed Items] | [Implemented a bunch of gambling items for fun, gives the option for characters to not just hack and slash with set outcomes every time.] |
 
 ## Physical Prototype Demo Plan
 
